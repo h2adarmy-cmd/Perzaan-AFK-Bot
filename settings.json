@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "adeeb ki biwi",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "67schoolgg.aternos.me",
-    "port": 36343,
+    "ip": "schoolsmpgg.mcsh.io",
+    "port": 19132,
     "version": "1.21.1"
   },
   "position": {
